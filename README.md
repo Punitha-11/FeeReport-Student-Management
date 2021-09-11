@@ -1,3 +1,4 @@
+[Corejava mini project.docx](https://github.com/Punitha-11/FeeReport-StudentManagement/files/7147706/Corejava.mini.project.docx)
 # FeeReport-Student Management
 OBJECTIVE:
 A fee report software where  accountant can add/view/edit/delete student, check due fee and logout.
